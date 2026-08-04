@@ -4,7 +4,7 @@ p {
 }
 
 img {
-    width: 25%;
+    width: 20%;
 }
 
 h1 {
@@ -49,15 +49,21 @@ p {
 }
 
 .item img {
-    width: 40%;
+    width: 20%;
 }
 
-
-.container {
+.flex-container {
     display: flex;
     flex-direction: row;
-}
+  }
+
+ 
+
+
 
 .text {
-    padding: 15%;
+    padding: 5%;
+}
+.image-about img{
+    width: 25%;
 }
