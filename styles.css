@@ -63,7 +63,7 @@ ul {
     padding: 5%;
 }
 .image-about img{
-    width: 50%;
+    width: 20%;
 }
 
 img{
@@ -83,4 +83,7 @@ width: 25%;
 }
 .container img{
   width: 40%;
+}
+.image-index img{
+  width:40%;
 }
