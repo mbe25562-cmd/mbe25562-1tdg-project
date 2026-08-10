@@ -7,9 +7,6 @@ p {
 p {
     font-size: x-large;
 }
-img {
-    width: 40%;
-}
 
 h1 {
     color: #FCFCFF;
@@ -65,10 +62,6 @@ ul {
 .image-about img{
     width: 150%;
 }
-
-img{
-  width: 75%;
-}
 .image-index img{
   width: 25%;
 }
@@ -78,9 +71,12 @@ display: flex;
 justify-content: space-between;
 }
 
-.image-div {
-width: 25%;
+.image-div1 img{
+width: 50%;
 }
 .container img{
   width: 40%;
+}
+.image-div2 img{
+  width: 50%;
 }
