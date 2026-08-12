@@ -80,3 +80,36 @@ width: 50%;
 .image-div2 img{
   width: 50%;
 }
+
+
+p{
+
+  color:black;
+
+}
+
+
+
+img{
+
+  width:30%;
+
+}
+
+
+
+body{
+
+  background-color: rgb(250, 223, 227);
+
+}
+
+   
+
+.container {
+
+  display: flex;
+
+  flex-direction: row;
+
+}
