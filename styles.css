@@ -84,7 +84,7 @@ width: 50%;
 
 p{
 
-  color:black;
+  color:#7B9FEE;
 
 }
 
@@ -112,4 +112,17 @@ body{
 
   flex-direction: row;
 
+}
+
+li{
+  font-size: 150%;
+}
+
+.list-title{
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
 }
