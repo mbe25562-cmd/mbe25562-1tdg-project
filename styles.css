@@ -5,7 +5,7 @@ p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-p {
+.p {
   font-size: x-large;
 }
 
@@ -83,7 +83,7 @@ ul li a:hover {
 }
 
 
-p {
+.p {
 
   color: black;
   font-kerning: none;
