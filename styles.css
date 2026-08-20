@@ -86,7 +86,7 @@ ul li a:hover {
 p {
 
   color: black;
-  font-kerning: normal;
+  font-kerning: none;
 
 }
 
@@ -120,8 +120,12 @@ li {
 .list-title {
   font-weight: bold;
 }
-
-
+img {
+  width: 400px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center; /* Optional: centers the crop area */
+}
 
 
 
