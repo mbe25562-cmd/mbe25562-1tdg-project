@@ -5,7 +5,7 @@ p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.p {
+p {
   font-size: x-large;
 }
 
@@ -83,7 +83,7 @@ ul li a:hover {
 }
 
 
-.p {
+p {
 
   color: black;
   font-kerning: none;
@@ -121,6 +121,12 @@ li {
   font-weight: bold;
 }
 
+img {
+  width: 500px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center; /* Optional: centers the crop area */
+}
 
 
 
