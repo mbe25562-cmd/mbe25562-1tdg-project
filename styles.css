@@ -3,10 +3,10 @@
 p {
   color: #fffdfd;
   font-family:  Arial, Helvetica, sans-serif;
-}
-
-p {
   font-size: x-large;
+
+  color: black;
+  font-kerning: none;
 }
 
 h1 {
@@ -83,13 +83,6 @@ ul li a:hover {
 }
 
 
-p {
-
-  color: black;
-  font-kerning: none;
-
-}
-
 .image-div {
   width: 50%;
 }
@@ -130,9 +123,9 @@ img {
 
 
 .Toa{
-  width: 300%;
+  width: 30%;
 }
 
 .clark-street-mercantile{
-  width: 300%;
+  width: 30%;
 }
