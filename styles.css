@@ -88,11 +88,6 @@ ul li a:hover {
 }
 
 
-img {
-
-  width: 30%;
-
-}
 
 
 
@@ -104,8 +99,6 @@ body {
 
 
 
-
-
 li {
   font-size: 150%;
 }
@@ -114,18 +107,18 @@ li {
   font-weight: bold;
 }
 
-img {
+.container img {
   width: 500px;
   height: 400px;
   object-fit: cover;
   object-position: center; /* Optional: centers the crop area */
 }
 
-
-.Toa{
-  width: 30%;
+.container-index {
+  display: flex;
+  flex-direction: row;
 }
 
-.clark-street-mercantile{
-  width: 30%;
+.container-index img {
+  width: 95%;
 }
